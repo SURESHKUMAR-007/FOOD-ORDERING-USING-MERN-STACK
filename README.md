@@ -78,10 +78,10 @@ food-ordering-app/
 ├── frontend/          # Frontend code (React)
 
 Our Project Team Members:
-SURESH KUMAR D - TEAM LEADER
-SOUNTHARIYAN S 
-STELLA L 
-SOUMYA SHIBU 
+- SURESH KUMAR D - TEAM LEADER
+- SOUNTHARIYAN S 
+- STELLA L 
+- SOUMYA SHIBU 
 Thanking you for giving this wonderful opportunity and Learning Experience.
 
 Demo - <a href="https://drive.google.com/file/d/19Tf1kSCMB_wFPSyBlKLsKHuaWcHiLGc3/view?usp=drivesdk">view video</a>
