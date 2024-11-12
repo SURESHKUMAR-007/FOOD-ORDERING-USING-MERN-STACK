@@ -46,7 +46,7 @@ npm install
 In the backend folder, create a .env file with the following variables:
 
 MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
+
 
 
 
