@@ -27,7 +27,7 @@ A food ordering web application built using the MERN stack (MongoDB, Express, Re
 
 1. Clone the repository:
    `bash
-   git clone https://github.com/yourusername/food-ordering-app.git
+   git clone https://github.com/SURESHKUMAR-007/FOOD-ORDERING-USING-MERN-STACK.git
    cd food-ordering-app
 
 2. Install dependencies for both client and server:
@@ -82,7 +82,7 @@ Our Project Team Members:
 - SOUNTHARIYAN S 
 - STELLA L 
 - SOUMYA SHIBU 
-Thanking you for giving this wonderful opportunity and Learning Experience.
+- Thanking you for giving this wonderful opportunity and Learning Experience.
 
 Demo - <a href="https://drive.google.com/file/d/19Tf1kSCMB_wFPSyBlKLsKHuaWcHiLGc3/view?usp=drivesdk">view video</a>
 
