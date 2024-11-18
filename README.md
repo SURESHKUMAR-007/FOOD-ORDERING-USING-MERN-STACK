@@ -11,7 +11,7 @@ A food ordering web application built using the MERN stack (MongoDB, Express, Re
 
 ## Tech Stack
 
-- Frontend: React, Redux
+- Frontend: React
 - Backend: Node.js, Express
 - Database: MongoDB
 - Authentication: JWT (JSON Web Token)
